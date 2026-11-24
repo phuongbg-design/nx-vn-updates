@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "changelog": "- Bản phát hành NX VN Studio v1.0.0 (Bộ cài .EXE):\n  + Tối ưu load bảng icon Yanxiu & đồng bộ rê chuột mượt 0ms\n  + Bổ sung khoanh vùng quét chữ Trung (Ctrl+Shift+Q) xuất file .TXT (file chờ -> file chính)\n  + Khóa chế độ bật/tắt Online-Offline chỉ dành cho bản PRO",
+  "installer_url": "https://raw.githubusercontent.com/phuongbg-design/nx-vn-updates/main/NX_VN_Setup_v1.0.0.exe",
+  "installer_sha256": "98987a4c23f554197b320b76a36229573d39d94d84cfcfa3068b54ea9f051dd8",
+  "files": []
+}
