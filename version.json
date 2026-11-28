@@ -5,7 +5,7 @@
   "min_supported_version": "2.0.0",
   "release_date": "2026-11-28",
   "changelog": "Bắt buộc cập nhật lên v2.0.0: gộp 1 file .exe bảo mật, xóa sạch dữ liệu cũ và nâng cấp Key bản quyền mới (NX2-...). Khách đã mua gửi Mã Máy qua Zalo 0931520654 để nhận Key v2.",
-  "installer_url": "https://github.com/phuongbg-design/nx-vn-updates/releases/download/v2.0.0/NX_VN_Setup_v2.0.exe",
+  "installer_url": "https://github.com/phuongbg-design/nx-vn-updates/releases/download/2.0.0/NX_VN_Setup_v2.0.exe",
   "installer_sha256": "DAN_MA_SHA256_64_KY_TU_VAO_DAY",
   "files": []
 }
