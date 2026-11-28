@@ -2,6 +2,6 @@
   "version": "1.1.0",
   "changelog": "- Bản cập nhật NX VN Studio v1.1.0 (Nâng cấp dịch AI đa Key & OCR 2x):\n + Tích hợp đa AI API (Gemini, DeepSeek, Groq, OpenRouter, OpenAI): hỗ trợ gắn nhiều API Key xoay vòng chia tải (Round-Robin), tự chuyển dự phòng khi quá tải, nạp Key từ .txt, quét Model & Test trực tiếp\n + Nâng chuẩn dịch chuyên ngành Khuôn mẫu & Siemens NX: tích hợp sẵn 416 thuật ngữ gốc, tự tách số đo/đơn vị động, bảo vệ thuật ngữ khi dịch Online & tự sửa lỗi dịch CAD\n + Nâng cấp OCR phóng to 2x nét cao giúp đọc chuẩn chữ Trung cỡ nhỏ trên hộp thoại NX và lọc sạch ký tự giao diện rác\n + Tinh gọn giao diện Tổng quan & tối ưu 2 chế độ (Chỉ Offline 0ms / Online + Offline tự học)\n + Tối ưu tương thích quyền ghi Windows (chạy ổn định kể cả khi cài trong Program Files) & khắc phục lỗi nạp module khi đóng gói .EXE",,
   "installer_url": "https://github.com/phuongbg-design/nx-vn-updates/releases/download/1.1.0/NX_VN_Setup_v1.1.0.exe",
-  "installer_sha256": "98987a4c23f554197b320b76a36229573d39d94d84cfcfa3068b54ea9f051dd8",
+  "installer_sha256": "e77c6bf1f39fe9f0daeeb6e7fa3b21b29aab7b34e68e5e7537f49bf176cdfb20",
   "files": []
 }
